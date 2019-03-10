@@ -1,4 +1,4 @@
-package com.step.assignment;
+package com.java.day1;
 
 import java.util.Scanner;
 
